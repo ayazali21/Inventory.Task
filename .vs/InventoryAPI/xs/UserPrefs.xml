@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9348850E-C02D-48A7-90BC-5ADC2347682D}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.InventoryInfrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.InventoryAPI FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InventoryAPI/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="InventoryCore/Class1.cs" Line="1" Column="1" />
+      <File FileName="InventoryInfrastructure/Class1.cs" Line="4" Column="5" />
+      <File FileName="InventoryAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="InventoryAPI/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="InventoryAPI/Controllers/WeatherForecastController.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InventoryAPI" expanded="True">
+            <Node name="InventoryAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="InventoryCore" expanded="True" />
+            <Node name="InventoryInfrastructure" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InventoryCore FirstBuild="True" />
+</Properties>
